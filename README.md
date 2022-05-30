@@ -1,6 +1,8 @@
 # microRTS_IA
 
-DI_AI
+DI_AI = Modificacion de Mayari
+
+DieIgn_IA = Modificacion de WorkerRushPlusPlus
 
 Añadir el codigo .java en src\ai\abstraction
 
